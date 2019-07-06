@@ -19,27 +19,73 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software developer"
+  company = "Hutbay Limited"
+  company_url = "https://www.hutbay.com/"
+  location = "Lagos, Nigeria"
+  date_start = "2016-07-01"
+  date_end = "2016-11-01"
   description = """
-  Responsibilities include:
+  Activities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Scraped data for research purposes
+  * Built API with django and django rest framework
+  * Configured Nginx server on linux, database management, SMTP and FTP
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Developer"
+  company = "Traclist"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Lagos, Nigeria"
+  date_start = "2016-12-01"
+  date_end = "2017-05-01"
+  description = """
+  Activities include:
+  
+  * Building web app for smes using Flask (A python web framework)
+  * Optimizing sme web app with angular js, webpack etc.
+  """
 
+[[experience]]
+  title = "Training Facilitator/Lead Developer"
+  company = "Sweskills Academy"
+  company_url = "https://www.sweskills.com/"
+  location = "Lagos, Nigeria"
+  date_start = "2017-06-01"
+  date_end = "2018-06-01"
+  description = """
+  Activities include:
+  
+  * Facilitated students’ software engineering training.
+  * Lead students on a real project for a client using agile development.
+  """
+
+  [[experience]]
+  title = "Software Developer"
+  company = "Data Systems Limited"
+  company_url = "http://datasystems.rw/"
+  location = "Kigali, Rwanda"
+  date_start = "2017-09-01"
+  date_end = "2018-03-01"
+  description = """
+  Activities include:
+  
+  * Built a SAP checkout manager plugin with Java
+  * Integrated MIGS payment gateway on a nodejs e-commerce web app
+  * Contributed to an e-learning platform called Eshuri
+  """
+
+  [[experience]]
+  title = "AI Reserach Intern"
+  company = "Instadeep"
+  company_url = "https://www.instadeep.com/"
+  location = "Lagos, Nigeria"
+  date_start = "2019-06-01"
+  date_end = "2019-08-31"
+  description = """
+  Activities include:
+  
+  * Deployed a federated learning on a mobile device.
+  """
 +++
