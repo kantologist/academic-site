@@ -28,14 +28,14 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "BSc in Mechanical Engineering"
-  institution = "University of Ibadan"
-  year = 2015
-
-[[education.courses]]
   course = "MSc in Electrical and Computer Engineerin"
   institution = "Carnegie Mellon Univeristy"
   year = 2019
+  
+[[education.courses]]
+  course = "BSc in Mechanical Engineering"
+  institution = "University of Ibadan"
+  year = 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
