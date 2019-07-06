@@ -32,6 +32,11 @@ interests = [
   institution = "University of Ibadan"
   year = 2015
 
+[[education.courses]]
+  course = "MSc in Electrical and Computer Engineerin"
+  institution = "Carnegie Mellon Univeristy"
+  year = 2019
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
