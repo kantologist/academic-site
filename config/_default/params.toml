@@ -140,9 +140,9 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 3
-  publication_view = 3
+  publication_view = 4
   talk_view = 3
-  project_view = 3
+  project_view = 2
 
 # Search.
 [search]
