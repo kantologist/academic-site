@@ -1,9 +1,9 @@
 +++
 # Recent and Upcoming Talks widget.
 widget = "talks"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true # Activate this widget? true/false
 
-title = "Recent & Upcoming Talks"
+title = "News"
 subtitle = ""
 
 # Order that this section will appear in.
