@@ -28,10 +28,10 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MSc in Electrical and Computer Engineerin"
+  course = "MSc in Electrical and Computer Engineering"
   institution = "Carnegie Mellon Univeristy"
   year = 2019
-  
+
 [[education.courses]]
   course = "BSc in Mechanical Engineering"
   institution = "University of Ibadan"
