@@ -1,5 +1,6 @@
 +++
-title = "Deep Classification Network for Monocular Depth Estimation"
+title = "SEREN: A Differential Privacy
+Application for Networking"
 
 # View.
 #   1 = List
