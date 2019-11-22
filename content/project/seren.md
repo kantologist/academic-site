@@ -9,7 +9,7 @@ title = "SEREN: A Differential Privacy Application for Networking"
 view = 4
 
 # Optional featured image (relative to `static/img/` folder).
-
++++
 Conference attendees are frequently overwhelmed by the scale of the
 event they participate in. Young participants, most especially find it difficult
 to identify the right co-attendees to reach out and connect with. We believe
