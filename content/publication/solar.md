@@ -1,6 +1,6 @@
 +++
 date = 2014-07-30
-title = "IMPACT OF CLIMATE CHANGE ON THE EFFICIENCY OF SOLAR CELL"
+title = "Impact of Climate Change on the Efficiency of Solar Cell"
 
 # View.
 #   1 = List
@@ -11,7 +11,6 @@ view = 4
 
 # Optional featured image (relative to `static/img/` folder).
 +++
-
 The objective of this paper is to review the impact of climate change on solar cells efficiency. What is
 most commonly studied is the impact of efficiency of solar cells on climate change. Lack of adequate
 knowledge of this vice versa effect of the impact of climate change on solar cells would hinder us from
