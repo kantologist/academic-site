@@ -1,6 +1,6 @@
 +++
 date = 2019-09-14
-title = "Unsupervised Domain Adaptation by Optical Flow Augmentation  in Semantic Segmentation"
+title = "Unsupervised Domain Adaptation by Optical Flow Augmentation  in Semantic Segmentation (A proposal)"
 
 # View.
 #   1 = List
