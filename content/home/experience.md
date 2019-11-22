@@ -88,4 +88,17 @@ date_format = "January 2006"
   
   * Deployed a federated learning on a mobile device.
   """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Carnegie Mellon University"
+  company_url = "https://www.instadeep.com/"
+  location = "Kigali, Rwanda"
+  date_start = "2019-01-01"
+  date_end = "2019-05-31"
+  description = """
+  Activities include:
+  
+  * Teaching assistant for the course ["Introduction to Deep Learning"] (http://deeplearning.cs.cmu.edu)
+  """
 +++
