@@ -9,9 +9,6 @@ title = "Agent Probing Interaction Policies"
 view = 3
 
 # Optional featured image (relative to `static/img/` folder).
-<!-- [header]
-<!-- image = "kittitest.png"
-caption = "Agent Probing Interaction Policies." --> -->
 +++
 
   Reinforcement learning in a multi agent system is difficult because these

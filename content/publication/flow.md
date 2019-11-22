@@ -10,9 +10,6 @@ title = "Unsupervised Domain Adaptation by Optical Flow Augmentation in Semantic
 view = 3
 
 # Optional featured image (relative to `static/img/` folder).
-<!-- [header]
-image = "kittitest.png"
-caption = "Unsupervised Domain Adaptation by Optical Flow Augmentation in Semantic Segmentation" -->
 +++
 
 It is expensive to generate real-life image labels and there is a domain gap
