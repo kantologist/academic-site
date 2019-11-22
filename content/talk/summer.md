@@ -10,6 +10,8 @@ view = 3
 
 # Optional featured image (relative to `static/img/` folder).
 
+# Optional featured image (relative to `static/img/` folder).
++++
 
 I attended and presented a poster at the Machine Learning Summer school in London
 [News](https://www.instadeep.com/2019/07/mlss-sponsorship-to-support-future-ml-champions/)
