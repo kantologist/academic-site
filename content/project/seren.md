@@ -1,6 +1,5 @@
 +++
-title = "SEREN: A Differential Privacy
-Application for Networking"
+title = "SEREN: A Differential Privacy Application for Networking"
 
 # View.
 #   1 = List
