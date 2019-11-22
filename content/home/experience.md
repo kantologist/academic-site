@@ -92,7 +92,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Teaching Assistant"
   company = "Carnegie Mellon University"
-  company_url = "https://www.instadeep.com/"
+  company_url = "http://deeplearning.cs.cmu.edu"
   location = "Kigali, Rwanda"
   date_start = "2019-01-01"
   date_end = "2019-05-31"
@@ -100,5 +100,18 @@ date_format = "January 2006"
   Activities include:
   
   * Teaching assistant for the course ["Introduction to Deep Learning"] (http://deeplearning.cs.cmu.edu)
+  """
+
+[[experience]]
+  title = "Tutor"
+  company = "African Masters in Machine Intelligence at AIMS Rwanda"
+  company_url = "https://sites.google.com/view/marcdeisenroth/teaching/201819/foundations-of-machine-learning?authuser=0"
+  location = "Kigali, Rwanda"
+  date_start = "2018-10-01"
+  date_end = "2018-12-31"
+  description = """
+  Activities include:
+  
+  * I was a tutor for the course [Foundations of Machine Learning.](https://sites.google.com/view/marcdeisenroth/teaching/201819/foundations-of-machine-learning?authuser=0)
   """
 +++
