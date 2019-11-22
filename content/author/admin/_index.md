@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Azeez Oluwafemi"
+name = "Oluwafemi Azeez"
 
 # Is this the primary user of the site?
 superuser = true
@@ -67,4 +67,4 @@ interests = [
 
 +++
 
-Azeez Oluwafemi is a graduate student of Carnegie Mellon University where He currently studies Electrical and Computer Engineering specializing in Artificial Intelligence. He is currently doing research in unsupervised domain adaptation in image segmentation with Yang Zou under the supervision of VijayaKumar Bhagavatula and semi-spervised single-channel multi-speaker separation using variational autoencoders with Yuichiro Koyama under the supervision of Bhiksha Raj. 
+Oluwafemi Azeez is a graduate student of Carnegie Mellon University where He currently studies Electrical and Computer Engineering specializing in Artificial Intelligence. He is currently doing research in unsupervised domain adaptation in image segmentation with Yang Zou under the supervision of VijayaKumar Bhagavatula and semi-spervised single-channel multi-speaker separation using variational autoencoders with Yuichiro Koyama under the supervision of Bhiksha Raj. 
