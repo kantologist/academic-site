@@ -1,12 +1,12 @@
 +++
-title = "Unsupervised Domain Adaptation by Optical Flow Augmentation"
+title = "Unsupervised Domain Adaptation by Optical Flow Augmentation  in Semantic Segmentation"
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 3
+view = 4
 
 # Optional featured image (relative to `static/img/` folder).
 +++

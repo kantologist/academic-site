@@ -9,10 +9,6 @@ title = "SEREN: A Differential Privacy Application for Networking"
 view = 4
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "seren.png"
-caption = "SEREN: A Differential Privacy Application for Networking"
-+++
 
 Conference attendees are frequently overwhelmed by the scale of the
 event they participate in. Young participants, most especially find it difficult
