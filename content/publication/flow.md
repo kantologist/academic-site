@@ -1,6 +1,5 @@
 +++
-title = "Unsupervised Domain Adaptation by Optical Flow Augmentation in Semantic
-  Segmentation (A proposal)"
+title = "Unsupervised Domain Adaptation by Optical Flow Augmentation in Semantic Segmentation (A proposal)"
 
 # View.
 #   1 = List
