@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Mastercard Foundation SCholar"
+  title = "Mastercard Foundation Scholar"
   organization = "Mastercard Foundation"
   certificate_url = "https://mastercardfdn.org/"
   date_start = "2018-08-01"
