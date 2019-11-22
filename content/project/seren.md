@@ -23,4 +23,4 @@ meaningful connections during the conference than they would otherwise
 be able to. We used a differential privacy approach in order to protect
 users’ data in training the model as opposed to a regular machine learning
 approach.
-[Poster](https://www.instadeep.com/wp-content/uploads/2019/08/seren_poster_pdf.pdf)
+[Poster](https://www.instadeep.com/wp-content/uploads/2019/08/seren_poster_pdf.pdf)[Presented and won MIT press Award at Deep Learning Indaba](http://www.deeplearningindaba.com/)

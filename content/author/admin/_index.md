@@ -13,17 +13,17 @@ role = "MSECE Graduate student"
 organizations = [ { name = "Carnegie Mellon University Africa", url = "https://www.africa.engineering.cmu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include human-in-the-loop AI systems, Deep Reinforcement learning and Human-level AI."
+bio = "My research interests include Reinforcement learning, computer vision and Human-level AI."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "azeezfemi17937@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
+  "Reinforcement Learning",
   "Deep Learning",
   "Computer Vision",
-  "Deep Reinforcement Learning"
+  "Artificial Intelligence"
 ]
 
 # List qualifications (such as academic degrees)
