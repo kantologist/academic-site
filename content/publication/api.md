@@ -1,4 +1,5 @@
 +++
+date = 2019-11-15
 title = "Agent Probing Interaction Policies"
 
 # View.
@@ -7,8 +8,6 @@ title = "Agent Probing Interaction Policies"
 #   3 = Card
 #   4 = Citation
 view = 4
-
-time = 2019-11-21T19:42:00-05:00
 
 # Optional featured image (relative to `static/img/` folder).
 +++

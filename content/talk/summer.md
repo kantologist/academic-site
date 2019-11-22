@@ -1,4 +1,5 @@
 +++
+date = 2019-07-15
 title = "Machine Learning Summer School London"
 
 # View.
@@ -7,7 +8,6 @@ title = "Machine Learning Summer School London"
 #   3 = Card
 #   4 = Citation
 view = 3
-time = 2019-11-21T19:42:00-05:00
 
 +++
 
