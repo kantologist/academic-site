@@ -8,8 +8,6 @@ title = "Agent Probing Interaction Policies"
 #   4 = Citation
 view = 4
 
-publication_types = 3
-
 time = 2019-11-21T19:42:00-05:00
 
 # Optional featured image (relative to `static/img/` folder).
