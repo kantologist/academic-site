@@ -10,7 +10,7 @@ role = "MSECE Graduate student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Carnegie Mellon University", url = "https://engineering.cmu.edu/" } ]
+organizations = [ { name = "Carnegie Mellon University", url = "https://engineering.cmu.edu/" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include Reinforcement learning, computer vision and Human-level AI."
@@ -46,6 +46,11 @@ interests = [
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:azeezfemi17937@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=ah1xbLMAAAAJ&hl=en"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
