@@ -72,4 +72,4 @@ interests = [
 
 +++
 
-Oluwafemi Azeez is a graduate student of Carnegie Mellon University where He currently studies Electrical and Computer Engineering specializing in Artificial Intelligence. He is currently doing research in unsupervised domain adaptation in image segmentation with Yang Zou under the supervision of VijayaKumar Bhagavatula and semi-spervised single-channel multi-speaker separation using variational autoencoders with Yuichiro Koyama under the supervision of Bhiksha Raj. 
+Oluwafemi Azeez is a recent masters graduate of Carnegie Mellon University where He studied Electrical and Computer Engineering specializing in Artificial Intelligence. He did research in unsupervised domain adaptation in image segmentation with Yang Zou under the supervision of VijayaKumar Bhagavatula and semi-spervised single-channel multi-speaker separation using variational autoencoders with Yuichiro Koyama under the supervision of Bhiksha Raj. He currently works as a research engineer in Instadeep where He is focusing on improving sample efficiency of model free reinforcement learning by combining them with model based techniques. 
