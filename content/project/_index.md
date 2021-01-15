@@ -11,5 +11,5 @@ view = 3
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "kittitest.png"
-caption = "Depth Predictions on KITTI. The Image on the left column, ground truth in the middle and our modelprediction on the right."
+caption = "Depth Predictions on KITTI. The Image on the left column, ground truth in the middle and our model prediction on the right."
 +++
