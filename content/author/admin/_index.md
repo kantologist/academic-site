@@ -6,14 +6,14 @@ name = "Oluwafemi Azeez"
 superuser = true
 
 # Role/position
-role = "MSECE Graduate student"
+role = "Research Engineer (Team Lead)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Carnegie Mellon University", url = "https://engineering.cmu.edu/" }]
+organizations = [ { name = "InstaDeep", url = "https://instadeep.com/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Reinforcement learning, computer vision and Human-level AI."
+bio = "My research interests include Reinforcement learning and computer vision."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "azeezfemi17937@gmail.com"
@@ -72,4 +72,4 @@ interests = [
 
 +++
 
-Oluwafemi Azeez is a recent masters graduate of Carnegie Mellon University where He studied Electrical and Computer Engineering specializing in Artificial Intelligence. He did research in unsupervised domain adaptation in image segmentation with Yang Zou under the supervision of VijayaKumar Bhagavatula and semi-spervised single-channel multi-speaker separation using variational autoencoders with Yuichiro Koyama under the supervision of Bhiksha Raj. He currently works as a research engineer in Instadeep where He is focusing on improving sample efficiency of model free reinforcement learning by combining them with model based techniques. 
+Oluwafemi Azeez is a recent masters graduate of Carnegie Mellon University where He studied Electrical and Computer Engineering specializing in Artificial Intelligence. He did research in unsupervised domain adaptation in image segmentation with Yang Zou under the supervision of VijayaKumar Bhagavatula and single-channel multi-speaker separation with Yuichiro Koyama under the supervision of Bhiksha Raj. He currently works as a research engineer (Team Lead) in Instadeep where He is working on applying reinforcement learning  to combinatorial optimization problems and also working on multi-agent variational inference.

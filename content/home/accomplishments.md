@@ -20,9 +20,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Jeremiah N. Mpagazehe Rising Researcher Award"
+  organization = "Carnegie Mellon University Africa"
+  certificate_url = ""
+  date_start = "2020-05-17"
+  date_end = ""
+  description = ""
+
+[[item]]
   title = "Mastercard Foundation Scholar"
   organization = "Mastercard Foundation"
-  certificate_url = "https://mastercardfdn.org/"
+  certificate_url = "https://mastercardfdn.org/all/scholars/"
   date_start = "2018-08-01"
   date_end = ""
   description = ""
@@ -30,7 +38,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Engineering Impact Award"
   organization = "National Instruments"
-  certificate_url = "https://www.ni.com/en-us.html"
+  certificate_url = ""
   date_start = "2015-08-01"
   date_end = ""
   description = ""

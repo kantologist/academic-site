@@ -21,4 +21,4 @@ environment. We've made a simplifying assumption that the other agent has a
 stationary policy that our probing policy is trying to approximate. Our work
 extends Environmental Probing Interaction Policy framework to handle multi
 agent environments.
-[Paper](https://arxiv.org/abs/1911.09535) [Submitted to AAAI-20 Workshop on Reinforcement Learning in Games](http://aaai-rlg.mlanctot.info/)
+[Paper](https://arxiv.org/abs/1911.09535)
