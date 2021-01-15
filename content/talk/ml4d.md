@@ -1,5 +1,5 @@
 +++
-date = 2020-11-8
+date = 2020-11-08
 title = "Machine Learning for Developing Worlds 2020"
 
 # View.
