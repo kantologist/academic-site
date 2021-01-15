@@ -1,7 +1,6 @@
 +++
 date = 2020-11-20
-title = "
-Differentiable Histogram with Hard-Binning"
+title = "Differentiable Histogram with Hard-Binning"
 
 # View.
 #   1 = List
