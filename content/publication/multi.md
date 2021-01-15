@@ -1,6 +1,6 @@
 +++
 date = 2020-08-11
-title = "EFFICIENT INTEGRATION OF MULTI-CHANNEL INFORMATION FOR DNN-BASED SPEECH SEPARATION USING ATTENTION MECHANISM AND TRANSFER LEARNING"
+title = "Efficient Integration of multi-channel Information for DNN-based Speech Separation using Attention Mechanism and Transfer Learning"
 
 # View.
 #   1 = List
